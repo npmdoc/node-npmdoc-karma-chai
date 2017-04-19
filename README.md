@@ -1,9 +1,14 @@
-# api documentation for  [karma-chai (v0.1.0)](http://xdissent.github.io/karma-chai)  [![npm package](https://img.shields.io/npm/v/npmdoc-karma-chai.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-karma-chai) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-karma-chai.svg)](https://travis-ci.org/npmdoc/node-npmdoc-karma-chai)
+# npmdoc-karma-chai
+
+#### api documentation for  [karma-chai (v0.1.0)](http://xdissent.github.io/karma-chai)  [![npm package](https://img.shields.io/npm/v/npmdoc-karma-chai.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-karma-chai) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-karma-chai.svg)](https://travis-ci.org/npmdoc/node-npmdoc-karma-chai)
+
 #### Chai for Karma
 
-[![NPM](https://nodei.co/npm/karma-chai.png?downloads=true)](https://www.npmjs.com/package/karma-chai)
+[![NPM](https://nodei.co/npm/karma-chai.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/karma-chai)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-karma-chai/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-karma-chai_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-karma-chai/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-karma-chai/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-karma-chai/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-karma-chai/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-karma-chai/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-karma-chai/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +23,6 @@
 {
     "author": {
         "name": "Greg Thornton",
-        "email": "xdissent@me.com",
         "url": "http://xdissent.com"
     },
     "bugs": {
@@ -54,12 +58,10 @@
     "main": "./index.js",
     "maintainers": [
         {
-            "name": "xdissent",
-            "email": "xdissent@me.com"
+            "name": "xdissent"
         },
         {
-            "name": "alexgorbatchev",
-            "email": "alex.gorbatchev@gmail.com"
+            "name": "alexgorbatchev"
         }
     ],
     "name": "karma-chai",
@@ -68,7 +70,6 @@
         "chai": "*",
         "karma": ">=0.10.9"
     },
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/xdissent/karma-chai.git"
@@ -76,16 +77,6 @@
     "version": "0.1.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module karma-chai](#apidoc.module.karma-chai)
-
-
-
-# <a name="apidoc.module.karma-chai"></a>[module karma-chai](#apidoc.module.karma-chai)
 
 
 
