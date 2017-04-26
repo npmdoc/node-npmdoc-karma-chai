@@ -1,6 +1,6 @@
 # npmdoc-karma-chai
 
-#### api documentation for  [karma-chai (v0.1.0)](http://xdissent.github.io/karma-chai)  [![npm package](https://img.shields.io/npm/v/npmdoc-karma-chai.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-karma-chai) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-karma-chai.svg)](https://travis-ci.org/npmdoc/node-npmdoc-karma-chai)
+#### basic api documentation for  [karma-chai (v0.1.0)](http://xdissent.github.io/karma-chai)  [![npm package](https://img.shields.io/npm/v/npmdoc-karma-chai.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-karma-chai) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-karma-chai.svg)](https://travis-ci.org/npmdoc/node-npmdoc-karma-chai)
 
 #### Chai for Karma
 
@@ -74,7 +74,8 @@
         "type": "git",
         "url": "git+https://github.com/xdissent/karma-chai.git"
     },
-    "version": "0.1.0"
+    "version": "0.1.0",
+    "bin": {}
 }
 ```
 
